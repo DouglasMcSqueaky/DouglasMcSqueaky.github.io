@@ -4,7 +4,7 @@ title: The Case for Monero
 subtitle:
 gh-repo: douglasmcsqueaky/douglasmcsqueaky.github.io
 gh-badge: [ follow]
-tags: [Monero][privacy]
+tags:
 comments: false
 author: Douglas McSqueaky
 ---
