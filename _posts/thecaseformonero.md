@@ -9,7 +9,7 @@ comments: false
 author: Douglas McSqueaky
 ---
 
-Here is my first post.
+Here is my first post. Why won't this commit take?
 
 ![M2_Chart](/assets/img/m2screenshot.png){: .mx-auto.d-block :}
 
