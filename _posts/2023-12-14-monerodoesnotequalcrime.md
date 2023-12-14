@@ -20,4 +20,4 @@ The current state of mass collection in the US:
 
 ![](/assets/img/masscollection.png){: .mx-auto.d-block :}
 
-[*image source*](https://watson.brown.edu/costsofwar/files/cow/imce/papers/2023/Surveillance%20Report%202023%20.pdf))
+[*image source*](https://watson.brown.edu/costsofwar/files/cow/imce/papers/2023/Surveillance%20Report%202023%20.pdf){: .mx-auto.d-block :}
