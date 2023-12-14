@@ -17,4 +17,4 @@ The arguments by politicians that propose crypto is for criminals is a red herri
 All forms of government throughout history have enacted systems to quell dissent and track individuals or entities deemed a threat – today is not different. However, the vast expanse of data available today in the information age moves us ever close to an Orwellian society where guilt is presumed unless proven otherwise. Mass collection of  information on ordinary people is not ethical, but those in power will attempt to re-frame it as positive at all costs. If that is not possible, collection will be done as covertly as possible. Monero offers one escape hatch out of the surveillance state, and it because of this that those with power will attempt to stigmatize it. 
 
 The current state of mass collection in the US: 
-[!Surveillance_Diagram](https://github.com/DouglasMcSqueaky/assets/img/masscollection.png){: .mx-auto.d-block :}
+![Surveillance_Diagram](https://github.com/DouglasMcSqueaky/assets/img/masscollection.png){: .mx-auto.d-block :}
