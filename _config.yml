@@ -11,8 +11,7 @@
 
 # Name of website
 title:  Libereco Mono
-
-# Your name to show in the footer
+subtitle: Sine secretis nulla libertas.
 author: Douglas McSqueaky
 
 ###############################################
@@ -58,7 +57,7 @@ social-network-links:
 #  patreon: DeanAttali
 # youtube: c/daattali
 #  medium: yourname
-  reddit: Douglas_McSqueaky
+#  reddit: Douglas_McSqueaky
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
