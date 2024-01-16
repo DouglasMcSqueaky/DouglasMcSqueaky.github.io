@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Life After CEX - Monero Enters a Brave New World
-subtitle:
+title: Life After CEX
+subtitle: Monero Enters a Brave New World
 gh-repo: douglasmcsqueaky/douglasmcsqueaky.github.io
 gh-badge: [ follow]
 tags:
