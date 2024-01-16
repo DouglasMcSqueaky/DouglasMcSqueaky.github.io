@@ -22,12 +22,19 @@ Below are resources to explore for the post-centralized exchange world (not an e
 *Swap services offer near-instant exchanges from one cryptocurrency to another for a nominal fee. Some of these services depend on centralized exchanges for liquidity, so be cognizant of the exchanges or services used in the background.* 
 
 Trocador: https://trocador.app
+
 Trocador (tor): http://trocadorfyhlu27aefre5u7zri66gudtzdyelymftvr4yjwcxhfaqsid.onion
+
 Orange Fren: https://orangefren.com
+
 Orange Fren (tor): http://rnwis2whetqcj4oknksnc5l24jbh33nflunifff3xtjjonnoxu3ld6id.onion/
+
 Hodl Hodl: https://hodlhodl.com
+
 ChangeNow: https://changenow.app.link
+
 Stealth Ex: https://stealthex.io
+
 Fixed Float: https://fixedfloat.com
 
 **Atomic Swaps:** 
@@ -36,12 +43,16 @@ Fixed Float: https://fixedfloat.com
 Unstoppable Swap: https://unstoppableswap.net/
 
 *Atomic Swap Resources to Follow:*
+
 https://comit.network/ 
+
 https://nitter.net/wanderinKing072/status/1740661280782860678
 
 **Peer to Peer (P2P):** 
 *Trade directly with others online privately using escrow or cash through mail.*
+
 Local Monero: https://localmonero.co
+
 Wizard Swap: https://www.wizardswap.io
 
 **ATMs:**
