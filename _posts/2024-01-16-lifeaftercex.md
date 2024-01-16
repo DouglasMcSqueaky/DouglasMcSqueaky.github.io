@@ -18,7 +18,7 @@ Given the glimmer of mainstream acceptance we now see with Bitcoin and stablecoi
 
 Below are resources to explore for the post-centralized exchange world (not an exhaustive list). It is best to familiarize yourself now and become comfortable with these tools before the last exchange standing de-lists Monero. Lastly – some of these links have pages for donations to the maintainers/developers. Please consider supporting their efforts. 
 
-####Swap Services: 
+**Swap Services:** 
 *Swap services offer near-instant exchanges from one cryptocurrency to another for a nominal fee. Some of these services depend on centralized exchanges for liquidity, so be cognizant of the exchanges or services used in the background.* 
 
 Trocador: https://trocador.app
@@ -30,7 +30,7 @@ ChangeNow: https://changenow.app.link
 Stealth Ex: https://stealthex.io
 Fixed Float: https://fixedfloat.com
 
-####Atomic Swaps: 
+**Atomic Swaps:** 
 *Atomic swaps offer a similar experience to the swap services above, however there is no 3rd party trust required in the middle. The swap is handled strictly via a cryptographically secure transaction protocol requiring zero trust. Most work in this area is still under development.*
 
 Unstoppable Swap: https://unstoppableswap.net/
@@ -39,12 +39,12 @@ Unstoppable Swap: https://unstoppableswap.net/
 https://comit.network/ 
 https://nitter.net/wanderinKing072/status/1740661280782860678
 
-####Peer to Peer (P2P): 
+**Peer to Peer (P2P):** 
 *Trade directly with others online privately using escrow or cash through mail.*
 Local Monero: https://localmonero.co
 Wizard Swap: https://www.wizardswap.io
 
-####ATMs:
+**ATMs:**
 *Crypto ATMs offer a convenient way to buy with cash, however, many require KYC over certain limits. Do your due diligence and also consider physical security/privacy when accessing these locations.* 
 
 https://coinatmradar.com/
