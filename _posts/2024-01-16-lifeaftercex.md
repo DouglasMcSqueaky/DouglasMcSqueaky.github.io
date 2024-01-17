@@ -44,6 +44,8 @@ Unstoppable Swap: https://unstoppableswap.net/
 
 *Atomic Swap Resources to Follow:*
 
+ETH-XMR Atomic Swap: https://github.com/AthanorLabs/atomic-swap
+
 https://comit.network/ 
 
 https://nitter.net/wanderinKing072/status/1740661280782860678
