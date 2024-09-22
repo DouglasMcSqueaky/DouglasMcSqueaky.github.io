@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Exit the Road to Serfdom with Monero
-subtitle:
+subtitle: "The more the state plans, the more difficult planning becomes for the individual."
 gh-repo: douglasmcsqueaky/douglasmcsqueaky.github.io
 gh-badge: [ follow]
 tags:
@@ -32,7 +32,7 @@ In the contemporary U.S., there are growing concerns about the health of democra
 
 Some argue that this polarization could, in the long run, lead to the kind of democratic decay that Hayek feared. As each side becomes more entrenched, there is a risk that one faction might push for more authoritarian solutions to break the deadlock. For example, populist movements on both the left and right have gained traction, calling for radical changes to the political and economic system. Hayek’s warning about the “road to serfdom” seems relevant here, as frustration with democratic institutions could lead to calls for more centralized control, whether in the form of a strong leader or an empowered technocratic elite.
 
-### Inflation as a Catalyst to Capital Controls
+#### Inflation as a Catalyst to Capital Controls
 
 Capital controls are regulatory measures used by governments to restrict or regulate the flow of financial capital in and out of a country’s economy. These controls can take many forms, including taxes on international financial transactions, limits on foreign investment, or restrictions on citizens and businesses moving funds abroad. Governments typically implement capital controls to protect the domestic economy from external shocks, stabilize the national currency, and control inflation or currency devaluation. However, while these measures may provide short-term stability, they often have significant long-term consequences for economic freedom, investment, and growth.
 
@@ -76,8 +76,8 @@ Businesses, particularly those involved in international trade or cross-border t
 
 Monero provides a powerful tool for safeguarding financial autonomy in the face of capital controls that may result from current global headwinds. Its privacy features and decentralized nature allow users to protect their wealth, conduct cross-border transactions, and maintain economic freedom without the interference of governmental controls. It is the best tool humanity currently has to deal with future economic uncertainty. 
 
-
 Referenced Material
+
 F.A. Hayek _The Road to Serfdom_, 1944
 
 NATIONAL BUREAU OF ECONOMIC RESEARCH
