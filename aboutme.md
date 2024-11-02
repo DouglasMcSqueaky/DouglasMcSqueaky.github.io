@@ -7,7 +7,7 @@ I'm a privacy nerd with interests in reading, writing, and home mining. I think 
 
 If you appreciate the content and would like to encourage me to keep exploring Monero related topics, please consider sending some piconeros here:
 
-873P85SheGU7v2sgLBmtWeQgfdPN51hGtDvGEcyXZV3L9Nh7yvHXyb7GfuLSwAKmJTQTz2mwJrv1xjBu5Sg25zF79iEPbTU
+86QVGnHhSx15kNFvTB3cpxWz9Hr9TGbhsSvfrbUXcZLCb78eyUba3YAabSX9XLX5i38QJeFhxd2QG1jVC8hE4Y1FBnnx44G
 
 
 
